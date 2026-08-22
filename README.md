@@ -6,7 +6,7 @@ Seja bem-vindo(a) ao meu perfil! Sou um entusiasta da tecnologia em constante ap
 
 ---
 
-### 🚀 Sobre mim
+### Sobre mim
 
 - 🏢 Atualmente cursando **Ciência da Computação** na **UNINASSAU**.
 - 💻 Focado em me tornar um Desenvolvedor Full Stack.
@@ -15,7 +15,7 @@ Seja bem-vindo(a) ao meu perfil! Sou um entusiasta da tecnologia em constante ap
 
 ---
 
-### 🛠 Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 #### **Front-end**
 <p align="left">
@@ -38,7 +38,7 @@ Seja bem-vindo(a) ao meu perfil! Sou um entusiasta da tecnologia em constante ap
 
 ---
 
-### 📊 Estatísticas do GitHub
+### Estatísticas do GitHub
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dplayerf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
@@ -47,7 +47,7 @@ Seja bem-vindo(a) ao meu perfil! Sou um entusiasta da tecnologia em constante ap
 
 ---
 
-### 📫 Como me encontrar
+### Como me encontrar
 
 <p align="left">
 <a href="mailto:danielmotaita@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
