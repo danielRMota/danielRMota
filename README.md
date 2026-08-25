@@ -8,10 +8,10 @@ Seja bem-vindo(a) ao meu perfil! Sou um entusiasta da tecnologia em constante ap
 
 ### Sobre mim
 
-- 🏢 Atualmente cursando **Ciência da Computação** na **UNINASSAU**.
-- 💻 Focado em me tornar um Desenvolvedor Full Stack.
-- 📚 Estudando profundamente as bases da web e a lógica de programação com Python.
-- 🌱 Buscando constantemente novos desafios e projetos para aplicar meus conhecimentos.
+- Atualmente cursando **Ciência da Computação** na **UNINASSAU**.
+- Focado em me tornar um Desenvolvedor Full Stack.
+- Estudando profundamente as bases da web e a lógica de programação com Python.
+- Buscando constantemente novos desafios e projetos para aplicar meus conhecimentos.
 
 ---
 
