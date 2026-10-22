@@ -13,7 +13,7 @@ Estudante de Ciência da Computação na UNINASSAU · Campina Grande, PB
 
 <h3 align="center">Sobre mim</h3>
 <p align="center">
-  Curso Ciência da Computação e estou me formando para atuar como desenvolvedor full stack. Hoje meu foco está em Python, onde venho consolidando lógica de programação e estruturas de dados, e nas bases do desenvolvimento web com HTML, CSS e JavaScript. Também tenho interesse em análise de dados e pretendo aprofundar essa área nos próximos projetos. Neste perfil ficam os trabalhos da faculdade, projetos em grupo e os estudos que desenvolvo por conta própria.
+  Curso Ciência da Computação e estou me formando para atuar como desenvolvedor full stack. Hoje meu foco nos estudos está em Python, onde venho consolidando lógica de programação e estruturas de dados, nas bases do desenvolvimento web com HTML, CSS e JavaScript é onde tenho maior afinidade para criação de sites lógicos e agradáveis ao público, onde possuo maior habilidade de criação e desenvolvimento, atualmente estou usando o Claude Code como ferramenta de auxílio e estudos. Também tenho interesse em Cybersecurity e pretendo aprofundar essa área nos próximos projetos. Neste perfil ficam os trabalhos da faculdade, projetos em grupo e os estudos que desenvolvo por conta própria.
 </p>
 
 <h3 align="center">Projetos desenvolvidos</h3>
