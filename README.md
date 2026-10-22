@@ -21,6 +21,7 @@ Neste perfil ficam os trabalhos da faculdade, projetos em grupo e os estudos que
 
 | Projeto | Descrição | Stack |
 | :-- | :-- | :-- |
+| [Motalab Laboratório](https://github.com/dplayerf/Motalab) | Meu primeiro projeto individual, construído do zero com o Claude Code como auxiliar no desenvolvimento | JavaScript, HTML, CSS |
 | [Sistema de Cadastro de Clientes](https://github.com/devgabrielporto07/Sistema-Cadastro-Clientes) | Projeto em equipe desenvolvido para a disciplina de Coding | Python |
 | [DISCIPLINACCP2](https://github.com/profanacgpb/DISCIPLINACCP2) | Atividades e exercícios da disciplina | Python |
 
@@ -34,10 +35,10 @@ Neste perfil ficam os trabalhos da faculdade, projetos em grupo e os estudos que
 <br/><br/>
 
 **Ferramentas**
-<br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+<br/><br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" alt="Git, GitHub, VS Code" />
+</a>
 
 ### Estatísticas
 
