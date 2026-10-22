@@ -21,7 +21,7 @@ Neste perfil ficam os trabalhos da faculdade, projetos em grupo e os estudos que
 
 | Projeto | Descrição | Stack |
 | :-- | :-- | :-- |
-| [Motalab Laboratório](https://github.com/dplayerf/Motalab](https://github.com/dplayerf/Motalab-Laboratorio)) | Meu primeiro projeto individual, construído do zero com o Claude Code como auxiliar no desenvolvimento | JavaScript, HTML, CSS |
+| [Motalab Laboratório](https://github.com/dplayerf/Motalab-Laboratorio) | Meu primeiro projeto individual, construído do zero com o Claude Code como auxiliar no desenvolvimento | JavaScript, HTML, CSS |
 | [Sistema de Cadastro de Clientes](https://github.com/devgabrielporto07/Sistema-Cadastro-Clientes) | Projeto em equipe desenvolvido para a disciplina de Coding | Python |
 | [DISCIPLINACCP2](https://github.com/profanacgpb/DISCIPLINACCP2) | Atividades e exercícios da disciplina | Python |
 
