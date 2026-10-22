@@ -39,6 +39,7 @@ Neste perfil ficam os trabalhos da faculdade, projetos em grupo e os estudos que
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" alt="Git, GitHub, VS Code" />
 </a>
+<img src="https://cdn.simpleicons.org/claudecode/D97757" alt="Claude Code" title="Claude Code" width="48" height="48" />
 
 ### Estatísticas
 
