@@ -12,10 +12,9 @@ Estudante de Ciência da Computação na UNINASSAU · Campina Grande, PB
 ---
 
 <h3 align="center">Sobre mim</h3>
-
-Curso Ciência da Computação e estou me formando para atuar como desenvolvedor full stack. Hoje meu foco está em Python, onde venho consolidando lógica de programação e estruturas de dados, e nas bases do desenvolvimento web com HTML, CSS e JavaScript. Também tenho interesse em análise de dados e pretendo aprofundar essa área nos próximos projetos.
-
-Neste perfil ficam os trabalhos da faculdade, projetos em grupo e os estudos que desenvolvo por conta própria.
+<p align="center">
+  Curso Ciência da Computação e estou me formando para atuar como desenvolvedor full stack. Hoje meu foco está em Python, onde venho consolidando lógica de programação e estruturas de dados, e nas bases do desenvolvimento web com HTML, CSS e JavaScript. Também tenho interesse em análise de dados e pretendo aprofundar essa área nos próximos projetos. Neste perfil ficam os trabalhos da faculdade, projetos em grupo e os estudos que desenvolvo por conta própria.
+</p>
 
 <h3 align="center">Projetos desenvolvidos</h3>
 
@@ -49,4 +48,12 @@ Neste perfil ficam os trabalhos da faculdade, projetos em grupo e os estudos que
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=dplayerf&theme=github-dark-blue&hide_border=true" alt="Sequência de contribuições" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dplayerf/dplayerf/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dplayerf/dplayerf/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/dplayerf/dplayerf/output/github-snake.svg" alt="Cobrinha percorrendo o gráfico de contribuições" />
+  </picture>
 </p>
