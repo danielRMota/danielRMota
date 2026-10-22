@@ -43,11 +43,11 @@ Neste perfil ficam os trabalhos da faculdade, projetos em grupo e os estudos que
 
 ### Estatísticas
 
-<p align="left">
+<p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=dplayerf&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dplayerf&layout=compact&langs_count=6&theme=github_dark&hide_border=true" alt="Linguagens mais usadas" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=dplayerf&theme=github-dark-blue&hide_border=true" alt="Sequência de contribuições" />
 </p>
