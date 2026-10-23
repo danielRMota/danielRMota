@@ -12,16 +12,19 @@ Estudante de Ciência da Computação na UNINASSAU · Campina Grande, PB
 ---
 
 <div align="center">
+
 ### $\color{#D97757}{\textsf{Sobre mim}}$
- 
+
 </div>
+
 <p align="center">
   Curso Ciência da Computação e estou me formando para atuar como desenvolvedor full stack. Hoje meu foco nos estudos está em Python, onde venho consolidando lógica de programação e estruturas de dados, nas bases do desenvolvimento web com HTML, CSS e JavaScript é onde tenho maior afinidade para criação de sites lógicos e agradáveis ao público, onde possuo maior habilidade de criação e desenvolvimento, atualmente estou usando o Claude Code como ferramenta de auxílio e estudos. Também tenho interesse em Cybersecurity e pretendo aprofundar essa área nos próximos projetos. Neste perfil ficam os trabalhos da faculdade, projetos em grupo e os estudos que desenvolvo por conta própria.
 </p>
 
 <div align="center">
+
 ### $\color{#D97757}{\textsf{Projetos Desenvolvidos}}$
- 
+
 </div>
 
 | Projeto | Descrição | Stack |
@@ -30,10 +33,11 @@ Estudante de Ciência da Computação na UNINASSAU · Campina Grande, PB
 | [Sistema de Cadastro de Clientes](https://github.com/devgabrielporto07/Sistema-Cadastro-Clientes) | Projeto em equipe desenvolvido para a disciplina de Coding | Python |
 
 <div align="center">
+
 ### $\color{#D97757}{\textsf{Tecnologias de meu domínio}}$
- 
+
 </div>
- 
+
 <p align="center"><strong>Linguagens</strong></p>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -49,8 +53,9 @@ Estudante de Ciência da Computação na UNINASSAU · Campina Grande, PB
 </p>
 
 <div align="center">
+
 ### $\color{#D97757}{\textsf{Estatísticas}}$
- 
+
 </div>
 
 <p align="center">
