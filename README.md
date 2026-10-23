@@ -23,7 +23,7 @@ Estudante de Ciência da Computação na UNINASSAU · Campina Grande, PB
 | [Motalab Laboratório](https://github.com/dplayerf/Motalab-Laboratorio) | Meu primeiro projeto individual, construído do zero com o Claude Code como auxiliar no desenvolvimento | JavaScript, HTML, CSS |
 | [Sistema de Cadastro de Clientes](https://github.com/devgabrielporto07/Sistema-Cadastro-Clientes) | Projeto em equipe desenvolvido para a disciplina de Coding | Python |
 
-<h3 align="center">Tecnologias</h3>
+<h3 align="center">Tecnologias de meu domínio</h3>
  
 <p align="center"><strong>Linguagens</strong></p>
 <p align="center">
