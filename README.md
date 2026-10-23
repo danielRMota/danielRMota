@@ -11,19 +11,28 @@ Estudante de Ciência da Computação na UNINASSAU · Campina Grande, PB
 
 ---
 
-<h3 align="center">Sobre mim</h3>
+<div align="center">
+### $\color{#D97757}{\textsf{Sobre mim}}$
+ 
+</div>
 <p align="center">
   Curso Ciência da Computação e estou me formando para atuar como desenvolvedor full stack. Hoje meu foco nos estudos está em Python, onde venho consolidando lógica de programação e estruturas de dados, nas bases do desenvolvimento web com HTML, CSS e JavaScript é onde tenho maior afinidade para criação de sites lógicos e agradáveis ao público, onde possuo maior habilidade de criação e desenvolvimento, atualmente estou usando o Claude Code como ferramenta de auxílio e estudos. Também tenho interesse em Cybersecurity e pretendo aprofundar essa área nos próximos projetos. Neste perfil ficam os trabalhos da faculdade, projetos em grupo e os estudos que desenvolvo por conta própria.
 </p>
 
-<h3 align="center">Projetos desenvolvidos</h3>
+<div align="center">
+### $\color{#D97757}{\textsf{Projetos Desenvolvidos}}$
+ 
+</div>
 
 | Projeto | Descrição | Stack |
 | :-- | :-- | :-- |
 | [Motalab Laboratório](https://github.com/dplayerf/Motalab-Laboratorio) | Meu primeiro projeto individual, construído do zero com o Claude Code como auxiliar no desenvolvimento | JavaScript, HTML, CSS |
 | [Sistema de Cadastro de Clientes](https://github.com/devgabrielporto07/Sistema-Cadastro-Clientes) | Projeto em equipe desenvolvido para a disciplina de Coding | Python |
 
-<h3 align="center">Tecnologias de meu domínio</h3>
+<div align="center">
+### $\color{#D97757}{\textsf{Tecnologias de meu domínio}}$
+ 
+</div>
  
 <p align="center"><strong>Linguagens</strong></p>
 <p align="center">
@@ -39,7 +48,10 @@ Estudante de Ciência da Computação na UNINASSAU · Campina Grande, PB
   <img src="https://cdn.simpleicons.org/claudecode/D97757" alt="Claude Code" title="Claude Code" width="48" height="48" />
 </p>
 
-<h3 align="center">Estatisticas</h3>
+<div align="center">
+### $\color{#D97757}{\textsf{Estatísticas}}$
+ 
+</div>
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=dplayerf&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
