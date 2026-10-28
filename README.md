@@ -22,7 +22,9 @@ Estudante de Ciência da Computação na UNINASSAU · Campina Grande, PB
 | Projeto | Descrição | Stack |
 | :-- | :-- | :-- |
 | [Motalab Laboratório](https://github.com/dplayerf/Motalab-Laboratorio) | Meu primeiro projeto individual, construído do zero com o Claude Code como auxiliar no desenvolvimento | JavaScript, HTML, CSS |
+| [Daniel Mota Dev](https://github.com/danielRMota/portfoliodanielmotadev.git) | Portfólio da minha empresa de desenvolvimento de sites landing pages para empresas | JavaScript, HTML, CSS |
 | [Sistema de Cadastro de Clientes](https://github.com/devgabrielporto07/Sistema-Cadastro-Clientes) | Projeto em equipe desenvolvido para a disciplina de Coding | Python |
+
 
 <h3 align="center">Tecnologias Utilizadas</h3>
 
