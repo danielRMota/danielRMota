@@ -42,17 +42,6 @@ Estudante de Ciência da Computação na UNINASSAU · Campina Grande, PB
   <img src="https://cdn.simpleicons.org/claudecode/D97757" alt="Claude Code" title="Claude Code" width="48" height="48" />
 </p>
 
-<h3 align="center">Estatisticas</h3>
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dplayerf&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dplayerf&layout=compact&langs_count=6&theme=github_dark&hide_border=true" alt="Linguagens mais usadas" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=dplayerf&theme=github-dark-blue&hide_border=true" alt="Sequência de contribuições" />
-</p>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dplayerf/dplayerf/output/github-snake-dark.svg" />
